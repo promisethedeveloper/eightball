@@ -1,0 +1,9 @@
+.Eightball {
+	display: flex;
+	width: 200px;
+	height: 200px;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	color: white;
+}
